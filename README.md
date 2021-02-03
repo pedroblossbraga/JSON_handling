@@ -2,7 +2,9 @@
 
 
 - Handling of JSON File : Json to csv converter.
-      
+
+
+      >>> import json
       >>> d = {
           'a': [1,2,3],
            'b': ['alex', 'bert', 'cam'],
