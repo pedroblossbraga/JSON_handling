@@ -15,7 +15,7 @@
       df = JSON_to_str(j)
       >>> df
 
-      a	b	c	d
+            a	b	c	d
       0	1	alex	0	0
       1	2	bert		1
       2	3	cam		2
